@@ -1,12 +1,12 @@
-# Geno Pheno-Envo-ReadTheDocs documentation
+#ReadTheDocs (RTD)
 
-The repo is the Read the Docs documentation in use by the GenoPhenoEnvo project. 
+The repo is the [Read the Docs documentation](https://readthedocs.org/) in use by the GenoPhenoEnvo project. 
 
-## Goal of the docs
+## Goals of these docs
 
-The goal of the documentation is to provide basic learning materials to help researchers, educators, and students effectively use our research material in the CyVerse cyberinfrastructure. 
+The goal of the documentation should beto provide basic learning materials to help researchers, educators, and students effectively (re)use our research material in the CyVerse cyberinfrastructure. 
 
-All documentation is a work-in-progress; even the best efforts will be incomplete, contain ambiguities, inaccuracies, and at some point, out of date. 
+All documentation is considered a work-in-progress; even the best efforts will be incomplete, contain ambiguities, inaccuracies, and at some point, will become out of date. 
 
 ## Maintained Sections
 
@@ -38,5 +38,5 @@ cd readthedocs
 sphinx-autobuild -b html --host 0.0.0.0 --port 8000 --poll . readthedocs
 ```
 
-After you've made your changes to the ReStructuredText pages and rendered the new HTML (located in the `/readthedocs/readthedocs` folder) with Sphinx
-you will need to make a git commit change to the main webpage [GitHub Repository](https://github.com/genophenoenvo/genophenoenvo.github.io) by copying over the `/readthedocs/readthedocs` folder.
+After you've made any changes to the ReStructuredText pages and rendered the new HTML (located in the `/readthedocs/readthedocs` folder) with Sphinx locally
+you will need to copy these changes to the main webpage [GitHub Repository](https://github.com/genophenoenvo/genophenoenvo.github.io) by copying over the `/readthedocs` sub-folder. Do not copy over the entire `git` repository as it will give you a Git error. 

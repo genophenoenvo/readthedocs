@@ -9,11 +9,11 @@ sys.path.insert(0, os.path.dirname(__file__))
 
 from misc.cyverse_sphinx_conf import *  # noqa
 
-project = 'CyVerse Learning Center Home'
-copyright = '2019, CyVerse'
-author = 'CyVerse'
-version = '0.1b.0'
-release = '0.1b.0'
+project = 'GenoPhenoEnvo'
+copyright = '2020, University of Arizona'
+author = 'TL Swetnam'
+version = '0.0.1'
+release = '0.0.1'
 
 epub_title = project
 epub_author = author
@@ -23,10 +23,15 @@ epub_copyright = copyright
 # html theme configuration -- see https://sphinx-rtd-theme.readthedocs.io/en/stable/configuring.html
 
 html_theme_options = {
-# Table of Content options
+    'display_version': False,
+    # Table of Content options
     'collapse_navigation': True,
     'sticky_navigation': True,
     'navigation_depth': 4,
     'includehidden': True,
     'titles_only': False
 }
+
+
+# These folders are copied to the documentation's HTML output
+html_static_path = ['_static']

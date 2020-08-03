@@ -9,11 +9,11 @@ extensions = [
     'sphinx.ext.autodoc',
 ]
 
-project = 'CyVerse Learning Center Home'
-copyright = '2017, CyVerse'
-author = 'CyVerse'
-version = '1.0'
-release = '1.0'
+project = 'Geno-Pheno-Envo'
+copyright = '2020, University of Arizona'
+author = 'Tyson L Swetnam'
+version = '0.0.1'
+release = '0.0.1'
 
 language = None
 source_parsers = {
@@ -31,22 +31,22 @@ pygments_style = 'sphinx'
 todo_include_todos = False
 html_theme = 'sphinx_rtd_theme'
 
-htmlhelp_basename = 'CyVerse_Documentation'
+htmlhelp_basename = 'GenoPhenoEnvo_Documentation'
 
 latex_elements = {}
 latex_documents = [
-    (master_doc, 'CyVerseDocumentation.tex', 'CyVerse Documentation',
-     'CyVerse', 'manual'),
+    (master_doc, 'GenoPhenoEnvoDocumentation.tex', 'GenoPhenoEnvo Documentation',
+     'GenoPhenoEnvo', 'manual'),
 ]
 
 man_pages = [
-    (master_doc, 'CyVerse Documentation', 'CyVerse Documentation',
+    (master_doc, 'GenoPhenoEnvo Documentation', 'GenoPhenoEnvo Documentation',
      [author], 1)
 ]
 
 texinfo_documents = [
-    (master_doc, 'CyVerse Documentation', 'CyVerse Documentation',
-     author, 'CyVerse', 'CyVerse',
+    (master_doc, 'GenoPhenoEnvo Documentation', 'GenoPhenoEnvo Documentation',
+     author, 'Tyson Swetnam', 'CyVerse',
      'Miscellaneous'),
 ]
 
@@ -73,4 +73,3 @@ def setup(app):
     app.add_stylesheet('cyverse.css')
     app.add_javascript('jquery.tablesorter.min.js')
     app.add_javascript('cyverse.js')
-    app.add_javascript('intercom-script-for-learning.js')

@@ -1,4 +1,4 @@
-#ReadTheDocs (RTD)
+# ReadTheDocs (RTD)
 
 The repo is the [Read the Docs documentation](https://readthedocs.org/) in use by the GenoPhenoEnvo project. 
 
@@ -22,7 +22,7 @@ We maintain the following templates. All documentation in the should be derived 
 
 - **Tutorials**: Tutorials to teach how to use our platforms. 
 
-# Making Changes to the RTD on our website
+## Making Changes to the RTD on our website
 
 This repository contains all of the necessary build material to generate a ReadTheDocs website
 

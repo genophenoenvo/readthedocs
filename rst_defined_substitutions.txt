@@ -54,5 +54,5 @@
     :width: 25
     :height: 25
 
-.. _Home_Icon: http://learning.cyverse.org/
+.. _Home_Icon: http://genophenoenvo.github.io/
 

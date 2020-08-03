@@ -1,7 +1,7 @@
 .. include:: rst_defined_substitutions.txt
 
 |Home_Icon|_
-`Home <https://genophenoenv.github.io/>`_
+`Home <https://genophenoenvo.github.io/>`_
 
 ##########################
 Open Science Documentation

@@ -7,7 +7,7 @@
 Documentation
 ------------
 
-*Read our Governance Document<link>*
+View our |Governance Doc| on Zenodo.org  
 
 Documentation for the Geno-Pheno-Envo project is maintained in several modalities
 
@@ -34,6 +34,9 @@ Computational Notebooks (R and Python) as well as derivative processed data extr
 
 ----
 
+.. |Governance Doc| raw:: html
+   
+   <a href="https://zenodo.org/record/3839120#.YEAZSftKiV4" target="blank">Governance Document</a>
 
 .. |Github| raw:: html
 

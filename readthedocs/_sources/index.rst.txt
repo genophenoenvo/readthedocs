@@ -11,4 +11,5 @@
    data
    documentation
    tutorials
+   publications
    contributing

@@ -31,20 +31,8 @@ Our long term goal is to develop predictive analytics for organismal response to
 	 You can also view, edit, and submit contributions on |Github|.
 
 
-********************
-Funding and Citation
-********************
-
-This project is funded by NSF HDR Awards 1939945, 1940059, 1940062, and 1940330.
-
-A |Powered by CyVerse| Project. 
-
-Please cite CyVerse appropriately when you make use of our resources, see 
-|CyVerse citation policy|.
-
-
 **********
-Contact Us
+Leadership Team
 **********
 
 

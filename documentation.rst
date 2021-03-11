@@ -36,7 +36,7 @@ Computational Notebooks (R and Python) as well as derivative processed data extr
 
 .. |Governance Doc| raw:: html
    
-   <a href="https://zenodo.org/record/3839120#.YEAZSftKiV4" target="blank">Governance Document</a>
+   <a href="https://doi.org/10.5281/zenodo.4599588" target="blank">Governance Document</a>
 
 .. |Github| raw:: html
 
